@@ -1,0 +1,212 @@
+[22-Oct-2024 14:09:54 America/Campo_Grande] PHP Warning:  mkdir(): Permission denied in /home/recicleorg/public_html/send_email.php on line 78
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $person_type in /home/recicleorg/public_html/send_email.php on line 74
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $nome_completo in /home/recicleorg/public_html/send_email.php on line 75
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $cpf in /home/recicleorg/public_html/send_email.php on line 76
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $nome_empresa in /home/recicleorg/public_html/send_email.php on line 77
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $cnpj in /home/recicleorg/public_html/send_email.php on line 78
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $telefone in /home/recicleorg/public_html/send_email.php on line 79
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $email in /home/recicleorg/public_html/send_email.php on line 80
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $cep in /home/recicleorg/public_html/send_email.php on line 81
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $rua in /home/recicleorg/public_html/send_email.php on line 82
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $numero in /home/recicleorg/public_html/send_email.php on line 82
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $bairro in /home/recicleorg/public_html/send_email.php on line 82
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $cidade in /home/recicleorg/public_html/send_email.php on line 83
+[22-Oct-2024 14:51:39 America/Campo_Grande] PHP Warning:  Undefined variable $estado in /home/recicleorg/public_html/send_email.php on line 83
+[29-Oct-2024 10:35:47 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:35:47 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:35:47 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(9): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:35:55 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:35:55 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:35:55 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(9): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:37:00 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:37:00 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:37:00 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/db_connect.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/db_connect.php(9): pg_last_error()
+#1 /home/recicleorg/public_html/painel.php(2): include('/home/recicleor...')
+#2 {main}
+  thrown in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:41:21 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:41:21 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:41:21 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(9): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:41:24 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:41:24 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:41:24 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(9): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 9
+[29-Oct-2024 10:43:04 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:43:04 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:53:56 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:53:56 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:54:19 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:54:19 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:57:01 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:57:01 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:57:11 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg&quot; in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:57:11 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:57:11 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/db_connect.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/db_connect.php(9): pg_last_error()
+#1 /home/recicleorg/public_html/blog-classic.php(3): include('/home/recicleor...')
+#2 {main}
+  thrown in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:57:59 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg&quot; in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:57:59 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:57:59 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/db_connect.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/db_connect.php(9): pg_last_error()
+#1 /home/recicleorg/public_html/blog-classic.php(3): include('/home/recicleor...')
+#2 {main}
+  thrown in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:23 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg&quot; in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:23 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:23 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/db_connect.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/db_connect.php(9): pg_last_error()
+#1 /home/recicleorg/public_html/blog-classic.php(3): include('/home/recicleor...')
+#2 {main}
+  thrown in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:25 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg&quot; in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:25 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:25 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/db_connect.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/db_connect.php(9): pg_last_error()
+#1 /home/recicleorg/public_html/blog-classic.php(3): include('/home/recicleor...')
+#2 {main}
+  thrown in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:26 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg&quot; in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:26 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:26 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/db_connect.php:9
+Stack trace:
+#0 /home/recicleorg/public_html/db_connect.php(9): pg_last_error()
+#1 /home/recicleorg/public_html/blog-classic.php(3): include('/home/recicleor...')
+#2 {main}
+  thrown in /home/recicleorg/public_html/db_connect.php on line 9
+[29-Oct-2024 10:58:53 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:58:53 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:58:55 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 10:58:55 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 11:10:46 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:10:46 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:11:06 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:11:06 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:11:13 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:11:13 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:12:01 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:12:01 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:12:01 America/Campo_Grande] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/recicleorg/public_html/login.php:2) in /home/recicleorg/public_html/login.php on line 24
+[29-Oct-2024 11:12:07 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:12:07 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:12:07 America/Campo_Grande] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/recicleorg/public_html/login.php:2) in /home/recicleorg/public_html/login.php on line 24
+[29-Oct-2024 11:12:14 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:12:14 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 11:12:14 America/Campo_Grande] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/recicleorg/public_html/login.php:2) in /home/recicleorg/public_html/login.php on line 24
+[29-Oct-2024 13:15:55 America/Campo_Grande] PHP Warning:  Undefined variable $host in /home/recicleorg/public_html/blog-classic.php on line 5
+[29-Oct-2024 13:15:55 America/Campo_Grande] PHP Warning:  Undefined variable $dbname in /home/recicleorg/public_html/blog-classic.php on line 5
+[29-Oct-2024 13:15:55 America/Campo_Grande] PHP Warning:  Undefined variable $user in /home/recicleorg/public_html/blog-classic.php on line 5
+[29-Oct-2024 13:15:55 America/Campo_Grande] PHP Warning:  Undefined variable $password in /home/recicleorg/public_html/blog-classic.php on line 5
+[29-Oct-2024 13:15:55 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name &quot;dbname=&quot; to address: Name or service not known in /home/recicleorg/public_html/blog-classic.php on line 6
+[29-Oct-2024 13:15:55 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 6
+[29-Oct-2024 13:15:55 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:6
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(6): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 6
+[29-Oct-2024 13:16:01 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:01 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:01 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:03 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:03 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:03 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:04 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:04 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:04 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:07 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:07 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:07 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:11 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:11 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:11 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:34 America/Campo_Grande] PHP Warning:  Undefined variable $dbconn in /home/recicleorg/public_html/blog-classic.php on line 14
+[29-Oct-2024 13:16:34 America/Campo_Grande] PHP Fatal error:  Uncaught TypeError: pg_query(): Argument #1 ($connection) must be of type PgSql\Connection, null given in /home/recicleorg/public_html/blog-classic.php:14
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(14): pg_query(NULL, 'SELECT * FROM p...')
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 14
+[29-Oct-2024 13:16:50 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:50 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:50 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:51 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:51 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:51 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:54 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:54 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:16:54 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:24:09 America/Campo_Grande] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  autenticação do tipo password falhou para usuário &quot;recicleorg_admin&quot; in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:24:09 America/Campo_Grande] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:24:09 America/Campo_Grande] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/recicleorg/public_html/blog-classic.php:10
+Stack trace:
+#0 /home/recicleorg/public_html/blog-classic.php(10): pg_last_error()
+#1 {main}
+  thrown in /home/recicleorg/public_html/blog-classic.php on line 10
+[29-Oct-2024 13:27:27 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:27:27 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:27:36 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:27:36 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:27:36 America/Campo_Grande] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/recicleorg/public_html/login.php:2) in /home/recicleorg/public_html/login.php on line 24
+[29-Oct-2024 13:27:40 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:27:40 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:30:47 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:30:47 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:30:54 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_d2508c5a9c51271a91cee654fecca86c, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/login.php on line 2
+[29-Oct-2024 13:30:54 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/login.php on line 2
+[26-Nov-2024 01:29:18 America/Campo_Grande] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_8c713be0a3da8e35ed03919f5e0b4d1d, O_RDWR) failed: No such file or directory (2) in /home/recicleorg/public_html/logout.php on line 2
+[26-Nov-2024 01:29:18 America/Campo_Grande] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home/recicleorg/public_html/logout.php on line 2
+[26-Nov-2024 01:29:18 America/Campo_Grande] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/recicleorg/public_html/logout.php on line 3
+[26-Nov-2024 01:29:18 America/Campo_Grande] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/recicleorg/public_html/logout.php:2) in /home/recicleorg/public_html/logout.php on line 4
