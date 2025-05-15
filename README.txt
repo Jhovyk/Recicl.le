@@ -1,3 +1,20 @@
+Instruções para executar o site localmente:
+
+Para que o site funcione corretamente em sua máquina local, é necessário utilizar um servidor web, como o XAMPP. Isso porque o projeto utiliza arquivos PHP, que não são interpretados apenas ao abrir o arquivo .html diretamente no navegador.
+
+Instale o XAMPP (ou outro servidor local de sua preferência).
+
+Copie todos os arquivos do projeto para a pasta htdocs, que fica dentro do diretório de instalação do XAMPP.
+
+Inicie o servidor Apache através do painel do XAMPP.
+
+No navegador, acesse: http://localhost/nome_da_pasta_do_projeto.
+
+Dessa forma, o servidor local será capaz de processar corretamente os arquivos PHP e executar os scripts JavaScript, garantindo o funcionamento completo do site.
+
+
+
+Commits pensados
 dia 01/05/2025
 
 Add files via upload
